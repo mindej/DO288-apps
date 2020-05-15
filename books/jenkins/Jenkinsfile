@@ -14,7 +14,7 @@ pipeline {
         DEV_PROJECT = "mindaugas-jaraminas1-ibm-com-books-dev"
         STAGE_PROJECT = "mindaugas-jaraminas1-ibm-com-books-stage"
         APP_GIT_URL = "https://github.com/mindej/DO288-apps"
-        NEXUS_SERVER = "http://nexus-common.apps.cluster.domain.example.com/repository/nodejs"
+        NEXUS_SERVER = "http://nexus-common.apps.cluster.ocp-na2.prod.nextcle.com/repository/nodejs"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "books"
